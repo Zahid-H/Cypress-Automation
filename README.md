@@ -1,4 +1,6 @@
 # Cypress-Automation
+<h2>What is Cypress?</h2>
+<p>Cypress is an automation web testing tool that's fast, easy, and reliable for testing the things (web components) that run in a browser.</p>
 # Environment Setup
 <ul>
 <li><b>1. Download & install nodejs</b></li>
