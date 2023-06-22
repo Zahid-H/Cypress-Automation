@@ -1,5 +1,4 @@
 # Cypress-Automation
-</br>
 # Environment Setup
 <ul>
 <li><b>1. Download & install nodejs</b>b></li>
