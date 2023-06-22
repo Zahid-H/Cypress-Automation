@@ -10,7 +10,7 @@
 <li>npm -i init ---> creates package.json file</li>
 <li><b>4.Install cypress in the terminal command</b></li>
 <li>npm install cypress --save -dev</li>
-<li><b>5. Start cypress</b>b</li>
+<li><b>5. To start cypress</b></li>
 <li>write command npx cypress open</li>
 <li>You will find my codes file in the ..\cypress\e2e directory</li>
 </ul>
