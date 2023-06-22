@@ -1,7 +1,7 @@
 # Cypress-Automation
 # Environment Setup
 <ul>
-<li><b>1. Download & install nodejs</b>b></li>
+<li><b>1. Download & install nodejs</b></li>
 <li><b>2. Create a folder for the project & open in the VScode<b></li>
 <li><b>3. Open cmd/terminal then execute below command</b></li>
 <li>npm -i init ---> creates package.json file</li>
