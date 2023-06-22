@@ -11,5 +11,6 @@
 <li>5.Start cypress</li>
 <li>npx cypress open</li>
 </ul>
-</br>
-![cypress_logo_social](https://github.com/Zahid-H/Cypress-Automation/assets/83463788/3a58aa4e-e2d3-4fd3-9896-4c3b44b63b79)
+
+![cypress_logo_social](https://github.com/Zahid-H/Cypress-Automation/assets/83463788/8f20a399-5376-41e4-9e58-7627f2c26fcc)
+
