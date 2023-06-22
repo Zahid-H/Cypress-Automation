@@ -9,6 +9,7 @@
 <li>npm install cypress --save -dev</li>
 <li><b>5. Start cypress</b>b</li>
 <li>write command npx cypress open</li>
+<li>You will find my codes file in the ..\cypress\e2e directory</li>
 </ul>
 
 ![cypress_logo_social](https://github.com/Zahid-H/Cypress-Automation/assets/83463788/8f20a399-5376-41e4-9e58-7627f2c26fcc)
